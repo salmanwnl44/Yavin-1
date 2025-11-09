@@ -7,13 +7,13 @@ This initial scaffold was created to match the Week 1 roadmap: project structure
 What was added in this scaffold:
 - `docker-compose.yml` for quick local orchestration (postgres, backend, frontend, qdrant placeholder)
 - `backend/` minimal FastAPI app and `requirements.txt`
-- `frontend/` minimal package.json (Vite + TypeScript expected)
+- `frontend/` minimal package.json (Vite + React with JSX)
 - `.env.example` with placeholders for local dev
 - `.gitignore` ignoring typical artifacts
 
 Next steps you can ask me to do:
 - Expand Week 1 Day 1-2 tasks into GitHub issues or a project board.
-- Initialize the frontend with Vite + React + TypeScript tooling.
+- Initialize the frontend with Vite + React + JSX tooling.
 - Install backend dependencies and run the FastAPI app inside Docker.
 - Add basic CI (GitHub Actions) pipeline for lint/test.
 
