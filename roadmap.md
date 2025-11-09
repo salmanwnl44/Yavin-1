@@ -20,7 +20,6 @@
 - [ ] Initialize Node.js project with TypeScript configuration
 - [ ] Initialize Python virtual environment with dependency management
 - [ ] Create `.env` files for local development (API keys, database URLs, model endpoints)
-- [ ] Setup Docker and docker-compose files for both services
 - [ ] Configure IDE extensions (ESLint, Prettier, Python Black, Type Checkers)
 
 **Technologies to Research**:
@@ -40,7 +39,7 @@
 ### Day 3-4: Frontend Architecture & Design System
 
 **Tasks**:
-- [ ] Setup React with TypeScript and Vite (faster than Create React App)
+- [ ] Setup React with javascript and Vite (faster than Create React App)
 - [ ] Configure TailwindCSS for styling with custom design tokens
 - [ ] Setup Redux Toolkit with Immer for state management
 - [ ] Design component hierarchy and folder structure
