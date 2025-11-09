@@ -1,0 +1,19 @@
+# Node
+node_modules/
+/dist
+/build
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# VSCode
+.vscode/
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
